@@ -31,3 +31,20 @@ This repository contains the **source code, ROS 2 nodes, ESP32 firmware, and exp
 1) Go to the plotting script folder:
 ```bash
 cd testes/CSV_ROBOT
+
+## 📸 Field Pictures
+
+<p align="center">
+  <img src="docs/img/robot_field_side.jpg" alt="Robot side view in plantain field" width="45%"/>
+  <img src="docs/img/robot_field_front.jpg" alt="Robot front view in plantain row" width="45%"/>
+</p>
+
+## 🎥 Demo Video
+
+[Watch on YouTube](https://www.youtube.com/watch?v=u4LEPf4ucak&list=PLrb4Ia3jTb1fGVidyRJrpKlKpQCu3HL8m)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=u4LEPf4ucak&list=PLrb4Ia3jTb1fGVidyRJrpKlKpQCu3HL8m" target="_blank">
+    <img src="https://img.youtube.com/vi/u4LEPf4ucak/hqdefault.jpg" alt="YouTube demo thumbnail" width="60%"/>
+  </a>
+</p>
