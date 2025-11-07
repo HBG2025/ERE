@@ -120,17 +120,51 @@ Time window	0 → 300	s
 This work was developed within the **Postdoctoral Research Program (BitPointer SAS – Ministry of Science, Technology and Innovation, Colombia)**, focusing on **low-cost agricultural robotics** for plantain crops.
 
 <p align="center">
-  <span style="font-size:1.3em; font-weight:bold;">Author:</span><br>
-  <b>H. B. Guerrero</b><br>
-  <i>BitPointer SAS / Universidad de los Llanos</i><br>
-  <a href="https://orcid.org/0000-0003-4243-4205" target="_blank"><b>ORCID 0000-0003-4243-4205</b></a>
+  ---
+
+## 👩‍🔬 <span style="font-size:1.4em; font-weight:bold;">Authors</span>
+
+<p align="center">
+
+<b>Henry B. Guerrero</b><sup>1</sup>  
+<a href="https://orcid.org/0000-0003-4243-4205" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
+</a>  
+<sup>1</sup> <i>BitPointer SAS / Universidad de los Llanos</i>  
+<br>
+📧 <a href="mailto:hbguerrero@ieee.org" style="color:#0073e6;">hbguerrero@ieee.org</a>
+
+<br><br>
+
+<b>Dana C. Montenegro</b><sup>2</sup>  
+<a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
+</a>  
+<sup>2</sup> <i>BitPointer SAS</i>  
+<br>
+📧 <a href="mailto:dana.montenegro@example.com" style="color:#0073e6;">dana.montenegro@example.com</a>
+
+<br><br>
+
+<b>Andrés L. Jutinico</b><sup>3</sup>  
+<a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
+</a>  
+<sup>3</sup> <i>BitPointer SAS</i>  
+<br>
+📧 <a href="mailto:andres.jutinico@example.com" style="color:#0073e6;">andres.jutinico@example.com</a>
+
 </p>
 
 ---
 
-## 🧠 <span style="font-size:1.4em; font-weight:bold;">How to Cite</span>
+## 🤝 <span style="font-size:1.4em; font-weight:bold;">Acknowledgments</span>
 
-If you use this repository in your research, please cite:
+This work was developed within the **Postdoctoral Research Program (BitPointer SAS – Ministry of Science, Technology and Innovation, Colombia)**,  
+in agreement with the Colombian Ministry of Science, Technology, and Innovation.
 
-> <b>H. B. Guerrero</b>, <i>Reactive Fuzzy Row-Following Robot for Plantain Crops</i>, 2025.  
-> [GitHub Repository](https://github.com/hbguerrero/PosDoc/tree/main/seguidor-de-muro-ros2)
+---
+
+</p>
+
+---
