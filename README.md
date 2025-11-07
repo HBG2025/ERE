@@ -130,7 +130,7 @@ This work was developed within the **Postdoctoral Research Program (BitPointer S
 <a href="https://orcid.org/0000-0003-4243-4205" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
 </a>  
-<sup>1</sup> <i>BitPointer SAS / Universidad de los Llanos</i>  
+<sup>1</sup> <i>BitPointer SAS </i>  
 <br>
 📧 <a href="mailto:hbguerrero@ieee.org" style="color:#0073e6;">hbguerrero@ieee.org</a>
 
@@ -140,7 +140,7 @@ This work was developed within the **Postdoctoral Research Program (BitPointer S
 <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
 </a>  
-<sup>2</sup> <i>BitPointer SAS</i>  
+<sup>2</sup> <i>SMARTECH SAS </i>  
 <br>
 📧 <a href="mailto:dana.montenegro@example.com" style="color:#0073e6;">dana.montenegro@example.com</a>
 
@@ -150,7 +150,7 @@ This work was developed within the **Postdoctoral Research Program (BitPointer S
 <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
 </a>  
-<sup>3</sup> <i>BitPointer SAS</i>  
+<sup>3</sup> <i>Universidad Distrital, Colombia</i>  
 <br>
 📧 <a href="mailto:andres.jutinico@example.com" style="color:#0073e6;">andres.jutinico@example.com</a>
 
