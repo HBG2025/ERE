@@ -45,3 +45,77 @@ Follow these steps to generate plots from your experimental CSV data.
 ### 1️⃣ Go to the plotting script folder
 ```bash
 cd testes/CSV_ROBOT
+
+electing a Different Experiment Folder (for plotar.py)
+
+Each experiment folder inside testes/CSV_ROBOT/ contains its own set of CSV files.
+The script plotar.py only plots one experiment at a time, based on the folder name defined in its configuration.
+
+To change which dataset is plotted, follow these steps:
+
+Open a terminal and go to the script folder
+
+cd testes/CSV_ROBOT
+
+
+List available experiment folders
+
+ls
+
+
+You will see subfolders such as:
+
+prueba1_parque
+PruebaconconosIncreible
+PruebaCampo2-cono160-setpoint1metro-distanciacultivo1metro
+PruebaconconosIncreible2
+
+
+Open the script
+
+nano plotar.py
+
+
+Find this line near the top
+
+DATA_SUBFOLDER = "PruebaCampo2-cono160-setpoint1metro-distanciacultivo1metro"
+
+
+Replace the text inside the quotes with the name of the experiment you want to plot.
+Example:
+
+DATA_SUBFOLDER = "prueba1_parque"
+
+
+Save and close
+
+Press Ctrl + O, then Enter
+
+Press Ctrl + X to exit
+
+▶️ Run the script
+python3 plotar.py
+
+
+All the generated plots (.png) will appear inside the same experiment folder you selected.
+
+Example:
+
+testes/CSV_ROBOT/prueba1_parque/
+ ├─ Distance_Error.png
+ ├─ IMU_Yaw_Error.png
+ ├─ Lidar_Left.png
+ ├─ Valid_Readings.png
+ ├─ comparison_desired_vs_measured_left.png
+ └─ comparison_desired_vs_measured_right.png
+
+📊 Default Plot Ranges
+Variable	Range	Units
+Desired vs Measured velocity	0 → 6.28	rad/s
+Distance error	−1 → +1	m
+Yaw error	−2 → +2	rad
+Valid readings	0 → 100	count
+Lidar left distance	0 → 3	m
+Time window	0 → 300	s
+
+
