@@ -11,6 +11,8 @@ This repository contains the **source code, ROS 2 nodes, ESP32 firmware, and exp
   <img src="docs/img/robot_field_front.jpg" alt="Robot front view in plantain row" width="45%"/>
 </p>
 
+---
+
 ## 🎥 Demo Video
 
 [Watch on YouTube](https://www.youtube.com/watch?v=u4LEPf4ucak&list=PLrb4Ia3jTb1fGVidyRJrpKlKpQCu3HL8m)
@@ -20,6 +22,8 @@ This repository contains the **source code, ROS 2 nodes, ESP32 firmware, and exp
     <img src="https://img.youtube.com/vi/u4LEPf4ucak/hqdefault.jpg" alt="YouTube demo thumbnail" width="60%"/>
   </a>
 </p>
+
+---
 
 ## 📂 Repository Structure (actual)
 
@@ -36,30 +40,8 @@ This repository contains the **source code, ROS 2 nodes, ESP32 firmware, and exp
 
 ## 🧭 Quick Start (Plotting)
 
-1) Go to the plotting script folder:
+Follow these steps to generate plots from your experimental CSV data.
+
+### 1️⃣ Go to the plotting script folder
 ```bash
 cd testes/CSV_ROBOT
-```
-## Using `plotar.py` (step-by-step guide)
-
-`plotar.py` creates the plots from your experiment data in a chosen folder.
-
-### 1) Requirements
-Only once, install Python packages:
-```bash
-python3 -m venv .venv && source .venv/bin/activate
-pip install numpy pandas matplotlib
-```
----
-
-## 🧩 Selecting a Different Experiment Folder (for `plotar.py`)
-
-Each experiment folder inside `testes/CSV_ROBOT/` contains its own set of CSV files.  
-The script `plotar.py` only plots **one experiment at a time**, based on the folder name defined in its configuration.
-
-To change which dataset is plotted, follow these steps:
-
-1️⃣ **Open a terminal and go to the script folder**
-```bash
-cd testes/CSV_ROBOT
-```
