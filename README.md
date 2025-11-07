@@ -117,5 +117,6 @@ Yaw error	−2 → +2	rad
 Valid readings	0 → 100	count
 Lidar left distance	0 → 3	m
 Time window	0 → 300	s
+```
 
 
