@@ -152,7 +152,7 @@ This work was developed within the **Postdoctoral Research Program (BitPointer S
 </a>  
 <sup>3</sup> <i>Universidad Distrital, Colombia</i>  
 <br>
-📧 <a href="mailto:andres.jutinico@example.com" style="color:#0073e6;">andres.jutinico@example.com</a>
+📧 <a href="mailto:aljuticoa@udistrital.edu.co" style="color:#0073e6;">aljuticoa@udistrital.edu.co</a>
 
 </p>
 
