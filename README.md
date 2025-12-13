@@ -115,10 +115,6 @@ Time window	0 → 300	s
 
 ---
 
-## 🤝 <span style="font-size:1.4em; font-weight:bold;">Acknowledgments</span>
-
-This work was developed within the **Postdoctoral Research Program (BitPointer SAS – Ministry of Science, Technology and Innovation, Colombia)**, focusing on **low-cost agricultural robotics** for plantain crops.
-
 <p align="center">
   ---
 <!-- BLIND FOR REVIEW: authors/affiliations/acknowledgments removed for double-anonymous submission.
