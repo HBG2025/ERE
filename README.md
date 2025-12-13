@@ -121,48 +121,8 @@ This work was developed within the **Postdoctoral Research Program (BitPointer S
 
 <p align="center">
   ---
-
-## 👩‍🔬 <span style="font-size:1.4em; font-weight:bold;">Authors</span>
-
-<p align="center">
-
-<b>Henry B. Guerrero</b><sup>1</sup>  
-<a href="https://orcid.org/0000-0003-4243-4205" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
-</a>  
-<sup>1</sup> <i>BitPointer SAS </i>  
-<br>
-📧 <a href="mailto:hbguerrero@ieee.org" style="color:#0073e6;">hbguerrero@ieee.org</a>
-
-<br><br>
-
-<b>Dana C. Montenegro</b><sup>2</sup>  
-<a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
-</a>  
-<sup>2</sup> <i>SMARTECH SAS </i>  
-<br>
-📧 <a href="mailto:dana.montenegro@example.com" style="color:#0073e6;">dana.montenegro@example.com</a>
-
-<br><br>
-
-<b>Andrés L. Jutinico</b><sup>3</sup>  
-<a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" alt="ORCID logo"/>
-</a>  
-<sup>3</sup> <i>Universidad Distrital, Colombia</i>  
-<br>
-📧 <a href="mailto:aljuticoa@udistrital.edu.co" style="color:#0073e6;">aljuticoa@udistrital.edu.co</a>
-
-</p>
-
----
-
-## 🤝 <span style="font-size:1.4em; font-weight:bold;">Acknowledgments</span>
-
-This work was developed within the **Postdoctoral Research Program (BitPointer SAS – Ministry of Science, Technology and Innovation, Colombia)**,  
-in agreement with the Colombian Ministry of Science, Technology, and Innovation.
-
+<!-- BLIND FOR REVIEW: authors/affiliations/acknowledgments removed for double-anonymous submission.
+     Restore after peer-review / acceptance. -->
 ---
 
 </p>
